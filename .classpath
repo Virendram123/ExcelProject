@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/JUnit Jar files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/JUnit Jar files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/JUnit Jar files/poi-3.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/JUnit Jar files/poi-ooxml-3.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/JUnit Jar files/poi-ooxml-schemas-3.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/JUnit Jar files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/TestNG Jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/TestNG Jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/TestNG Jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/TestNG Jars/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/TestNG Jars/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/TestNG Jars/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/TestNG Jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/TestNG Jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Virendra/Desktop/Learn Testing/JAR Files/Selenium Jars/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
